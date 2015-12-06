@@ -15,7 +15,8 @@ The script will rename all the files in the directory and append a number to the
 This script was written for use at the Coral Gables Art Cinema in South Florida. As such, the initial program directories are hard-coded into the script in order to save the user time.
 
 
-Test Photo Original File Names
+Test Photo Original File Names:
+
 cary-grant-392931_640.jpg
 humphrey-bogart-619157_640.jpg
 james-stewart-392932_640.jpg
