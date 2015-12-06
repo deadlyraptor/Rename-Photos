@@ -1,5 +1,11 @@
 # Test Directory
-test\ photos/*
+test\ photos
+!test\ photos
+!text.txt
+!cary-grant-392931_640.jpg
+!humprey-bogart-619157_640.jpg
+!james-stewart-392932_640.jpg
+!john-wayne-395777_640.jpg
 
 #Python
 .swp
