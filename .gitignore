@@ -1,5 +1,5 @@
 # Test Directory
-test\ photos
+test\ photos/*
 
 #Python
 .swp
