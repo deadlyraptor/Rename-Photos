@@ -1,7 +1,7 @@
 #Rename-Photos
 This is a Python script that will rename photo files in a directory per user input.
 
-How It Works:
+###How It Works:
 
 1. Asks users to select a program from a pre-populated list.
 2. Asks user to select a movie.
